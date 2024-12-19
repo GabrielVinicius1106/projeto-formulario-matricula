@@ -55,7 +55,6 @@ body {
   overflow: hidden;
 
   font: var(--text-md);
-  color: var(--text-secondary);
 }
 
 h1, h2 {
