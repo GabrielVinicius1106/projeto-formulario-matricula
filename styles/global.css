@@ -53,3 +53,7 @@
   /* Global Styles */
 
 }
+
+body {
+  overflow: hidden;
+}
