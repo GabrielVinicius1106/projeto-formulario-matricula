@@ -39,15 +39,15 @@
 
   /* TYPOGRAPHY */
   /* Heading */
-  --font-family: "Poppins", serif;
-  --heading1: 700 32px/120% var(--font-family);
-  --heading2: 700 24px/120% var(--font-family);
-  --heading3: 700 20px/120% var(--font-family);
-  --heading4: 700 16px/120% var(--font-family);
+  --font-family: 'Poppins', sans-serif;
+  --heading1: 700 2rem/1.2 var(--font-family);
+  --heading2: 700 1.5rem/1.2 var(--font-family);
+  --heading3: 700 1.25rem/1.2 var(--font-family);
+  --heading4: 700 1rem/1.2 var(--font-family);
 
   /* Text */
-  --text-sm: 400 14px/140% var(--font-family);
-  --text-md: 400 16px/150% var(--font-family);
+  --text-sm: 400 0.875rem/1.4 var(--font-family);
+  --text-md: 400 1rem/1.5 var(--font-family);
 
 
   /* Global Styles */
