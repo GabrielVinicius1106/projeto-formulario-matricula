@@ -31,7 +31,7 @@
 
   }
 
-  &:hover {
+  &:hover, &:focus-within {
     
     .checkbox-image {
       /* flex: 0 0 1.5rem 1.5rem; <- Este método faz a mesma coisa que o método abaixo */
